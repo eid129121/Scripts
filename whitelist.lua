@@ -23,5 +23,6 @@ return {
   "gkgkgk011",
   "SEOUDAM",
   "shallnewbie964",
-  "bacongoat_aemedizim"
+  "bacongoat_aemedizim",
+  "inhye_22"
 }
