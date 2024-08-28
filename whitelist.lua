@@ -24,5 +24,6 @@ return {
   "SEOUDAM",
   "shallnewbie964",
   "bacongoat_aemedizim",
-  "inhye_22"
+  "inhye_22",
+  "komaki2a"
 }
