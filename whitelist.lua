@@ -21,5 +21,6 @@ return {
   "sksmsasdsf",
   "JUN20483",
   "gkgkgk011",
-  "SEOUDAM"
+  "SEOUDAM",
+  "shallnewbie964"
 }
