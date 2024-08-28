@@ -9,5 +9,6 @@ return {
   "Help_11000",
  "kakaor814",
   "marketsrankings674",
-  "ST_4444444"
+  "ST_4444444",
+  "ootsrr12"
 }
