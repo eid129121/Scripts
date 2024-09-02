@@ -70,5 +70,6 @@ return {
   "koskoskos1234567",
   "dawd2a66",
   "Eeeezzzzzzz5",
-  "KR_stingTV"
+  "KR_stingTV",
+  "xogns_fnql"
 }
