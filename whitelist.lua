@@ -69,5 +69,6 @@ return {
   "bold07033",
   "koskoskos1234567",
   "dawd2a66",
-  "Eeeezzzzzzz5"
+  "Eeeezzzzzzz5",
+  "KR_stingTV"
 }
