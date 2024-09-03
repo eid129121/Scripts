@@ -79,5 +79,7 @@ return {
   "qwer1234qwer123465",
   "klkl09270",
   "vhkkbbbk",
-  "Survivor_Jetta"
+  "Survivor_Jetta",
+  "Naian7004",
+  "ian1204436"
 }
